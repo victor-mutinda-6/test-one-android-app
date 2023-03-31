@@ -1,0 +1,218 @@
+[
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-merged_res-29:/mipmap-xhdpi_my_icon_round.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-main-31:/mipmap-xhdpi/my_icon_round.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-merged_res-29:/drawable_ai_img.webp.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-main-31:/drawable/ai_img.webp"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-merged_res-29:/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-pngs-24:/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-merged_res-29:/mipmap-hdpi_my_icon.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-main-31:/mipmap-hdpi/my_icon.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-merged_res-29:/mipmap-hdpi_my_icon_round.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-main-31:/mipmap-hdpi/my_icon_round.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-merged_res-29:/mipmap-xxhdpi_my_icon_foreground.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-main-31:/mipmap-xxhdpi/my_icon_foreground.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-merged_res-29:/mipmap-mdpi_my_icon.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-main-31:/mipmap-mdpi/my_icon.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-merged_res-29:/drawable_facebookicon.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-main-31:/drawable/facebookicon.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-merged_res-29:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-main-31:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-merged_res-29:/drawable-xxxhdpi_my_icon_background.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-pngs-24:/drawable-xxxhdpi/my_icon_background.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-merged_res-29:/mipmap-xxhdpi_my_icon.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-main-31:/mipmap-xxhdpi/my_icon.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-merged_res-29:/drawable-hdpi_my_icon_background.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-pngs-24:/drawable-hdpi/my_icon_background.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-merged_res-29:/mipmap-xxxhdpi_my_icon_foreground.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-main-31:/mipmap-xxxhdpi/my_icon_foreground.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-merged_res-29:/xml_backup_rules.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-main-31:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-merged_res-29:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-main-31:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-merged_res-29:/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-pngs-24:/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-merged_res-29:/mipmap-hdpi_my_icon_foreground.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-main-31:/mipmap-hdpi/my_icon_foreground.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-merged_res-29:/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-pngs-24:/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-main-31:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-merged_res-29:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-main-31:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-main-31:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-merged_res-29:/drawable-xhdpi_my_icon_background.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-pngs-24:/drawable-xhdpi/my_icon_background.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-main-31:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-merged_res-29:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-main-31:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-merged_res-29:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-pngs-24:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-merged_res-29:/layout_activity_main.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-merged_res-29:/drawable-ldpi_my_icon_background.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-pngs-24:/drawable-ldpi/my_icon_background.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-merged_res-29:/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-pngs-24:/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-merged_res-29:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-main-31:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.newmidmorningtest.app-merged_res-29:/layout_activity_main.xml.flat",
+        "source": "com.example.newmidmorningtest.app-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-merged_res-29:/mipmap-mdpi_my_icon_round.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-main-31:/mipmap-mdpi/my_icon_round.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-merged_res-29:/drawable-anydpi-v21_my_icon_background.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-pngs-24:/drawable-anydpi-v21/my_icon_background.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-merged_res-29:/mipmap-anydpi-v26_my_icon.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-main-31:/mipmap-anydpi-v26/my_icon.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-merged_res-29:/drawable_pintrest.jpg.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-main-31:/drawable/pintrest.jpg"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-merged_res-29:/drawable_instagram_icon.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-main-31:/drawable/instagram_icon.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-merged_res-29:/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-pngs-24:/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-merged_res-29:/mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-main-31:/mipmap-anydpi-v33/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-merged_res-29:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-main-31:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-merged_res-29:/drawable_twittericon.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-main-31:/drawable/twittericon.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-merged_res-29:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-main-31:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-merged_res-29:/mipmap-xxxhdpi_my_icon_round.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-main-31:/mipmap-xxxhdpi/my_icon_round.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-merged_res-29:/mipmap-xhdpi_my_icon.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-main-31:/mipmap-xhdpi/my_icon.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-merged_res-29:/drawable-xxhdpi_my_icon_background.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-pngs-24:/drawable-xxhdpi/my_icon_background.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-merged_res-29:/drawable-mdpi_my_icon_background.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-pngs-24:/drawable-mdpi/my_icon_background.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-main-31:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-merged_res-29:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-main-31:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-merged_res-29:/mipmap-xxhdpi_my_icon_round.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-main-31:/mipmap-xxhdpi/my_icon_round.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-merged_res-29:/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-pngs-24:/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-merged_res-29:/mipmap-xxxhdpi_my_icon.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-main-31:/mipmap-xxxhdpi/my_icon.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-merged_res-29:/mipmap-anydpi-v26_my_icon_round.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-main-31:/mipmap-anydpi-v26/my_icon_round.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-merged_res-29:/mipmap-xhdpi_my_icon_foreground.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-main-31:/mipmap-xhdpi/my_icon_foreground.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-merged_res-29:/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-pngs-24:/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-merged_res-29:/xml_data_extraction_rules.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-main-31:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-merged_res-29:/mipmap-mdpi_my_icon_foreground.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/7.5/com.example.newmidmorningtest.app-main-31:/mipmap-mdpi/my_icon_foreground.png"
+    }
+]
