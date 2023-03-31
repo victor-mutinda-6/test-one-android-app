@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<androidx.constraintlayout.widget.ConstraintLayout
+    android:background="@drawable/bg_img"
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
@@ -20,6 +22,10 @@
         tools:srcCompat="@drawable/ai_img" />
 
     <EditText
+        android:background="#252727"
+        android:textColorHint="#EDE6E6"
+        android:paddingRight="50dp"
+        android:paddingLeft="50dp"
         android:id="@+id/medtName"
         android:layout_width="220dp"
         android:layout_height="50dp"
@@ -32,6 +38,10 @@
         app:layout_constraintTop_toBottomOf="@+id/imgLogo" />
 
     <EditText
+        android:background="#252727"
+        android:textColorHint="#EDE6E6"
+        android:paddingRight="50dp"
+        android:paddingLeft="50dp"
         android:id="@+id/editTextTextPassword"
         android:layout_width="211dp"
         android:layout_height="68dp"
@@ -46,6 +56,10 @@
         app:layout_constraintVertical_bias="0.059" />
 
     <EditText
+        android:background="#252727"
+        android:textColorHint="#EDE6E6"
+        android:paddingRight="50dp"
+        android:paddingLeft="50dp"
         android:id="@+id/editTextTextPassword2"
         android:layout_width="217dp"
         android:layout_height="71dp"
@@ -60,6 +74,10 @@
         app:layout_constraintVertical_bias="0.029" />
 
     <EditText
+        android:background="#252727"
+        android:textColorHint="#EDE6E6"
+        android:paddingRight="50dp"
+        android:paddingLeft="50dp"
         android:id="@+id/MedtEmail"
         android:layout_width="214dp"
         android:layout_height="66dp"
