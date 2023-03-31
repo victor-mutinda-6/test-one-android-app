@@ -22,8 +22,8 @@
         tools:srcCompat="@drawable/ai_img" />
 
     <EditText
-        android:background="#73999E"
-        android:textColorHint="#F13030"
+        android:background="#252727"
+        android:textColorHint="#EDE6E6"
         android:paddingRight="50dp"
         android:paddingLeft="50dp"
         android:id="@+id/medtName"
@@ -38,8 +38,8 @@
         app:layout_constraintTop_toBottomOf="@+id/imgLogo" />
 
     <EditText
-        android:background="#73999E"
-        android:textColorHint="#F13030"
+        android:background="#252727"
+        android:textColorHint="#EDE6E6"
         android:paddingRight="50dp"
         android:paddingLeft="50dp"
         android:id="@+id/editTextTextPassword"
@@ -56,8 +56,8 @@
         app:layout_constraintVertical_bias="0.059" />
 
     <EditText
-        android:background="#73999E"
-        android:textColorHint="#F13030"
+        android:background="#252727"
+        android:textColorHint="#EDE6E6"
         android:paddingRight="50dp"
         android:paddingLeft="50dp"
         android:id="@+id/editTextTextPassword2"
@@ -74,8 +74,8 @@
         app:layout_constraintVertical_bias="0.029" />
 
     <EditText
-        android:background="#73999E"
-        android:textColorHint="#F13030"
+        android:background="#252727"
+        android:textColorHint="#EDE6E6"
         android:paddingRight="50dp"
         android:paddingLeft="50dp"
         android:id="@+id/MedtEmail"
